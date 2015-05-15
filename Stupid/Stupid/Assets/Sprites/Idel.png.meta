@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 4e1a57cfb74b24f7e89aaeee57fbf151
+timeCreated: 1430394159
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idel_0
+    21300002: Idel_1
+    21300004: Idel_2
+    21300006: Idel_3
+    21300008: Idel_4
+    21300010: Idel_5
+    21300012: Idel_6
+    21300014: Idel_7
+    21300016: Idel_8
+    21300018: Idel_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 390
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 391
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 390
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 389
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_5
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 0
+        width: 389
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_6
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 0
+        width: 390
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_7
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 0
+        width: 391
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_8
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 0
+        width: 390
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idel_9
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 0
+        width: 389
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
