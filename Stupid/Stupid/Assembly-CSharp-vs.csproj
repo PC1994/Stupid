@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scritps\CheckPoints.cs" />
      <Compile Include="Assets\Scritps\Enemy.cs" />
+     <Compile Include="Assets\Scritps\ExitButton.cs" />
      <Compile Include="Assets\Scritps\LevelAdvance.cs" />
      <Compile Include="Assets\Scritps\Parallax.cs" />
      <Compile Include="Assets\Scritps\PlatformMover.cs" />
@@ -57,7 +58,10 @@
      <Compile Include="Assets\Scritps\PlayerMovement.cs" />
      <Compile Include="Assets\Scritps\PlayerMovement2D.cs" />
      <Compile Include="Assets\Scritps\PlayerRespawn.cs" />
+     <Compile Include="Assets\Scritps\SettingButton.cs" />
      <Compile Include="Assets\Scritps\SmoothFollow2.cs" />
+     <Compile Include="Assets\Scritps\StartGameButton.cs" />
+     <Compile Include="Assets\Scritps\StartScenePlane.cs" />
      <Compile Include="Assets\Scritps\Stomp.cs" />
      <Compile Include="Assets\Scritps\salivaDisappearance.cs" />
      <Compile Include="Assets\Scritps\shootingSaliva.cs" />
