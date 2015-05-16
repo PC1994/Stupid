@@ -61,7 +61,7 @@
      <Compile Include="Assets\Scritps\SettingButton.cs" />
      <Compile Include="Assets\Scritps\SmoothFollow2.cs" />
      <Compile Include="Assets\Scritps\StartGameButton.cs" />
-     <Compile Include="Assets\Scritps\StartScenePlane.cs" />
+     <Compile Include="Assets\Scritps\StartSceneBg.cs" />
      <Compile Include="Assets\Scritps\Stomp.cs" />
      <Compile Include="Assets\Scritps\salivaDisappearance.cs" />
      <Compile Include="Assets\Scritps\shootingSaliva.cs" />

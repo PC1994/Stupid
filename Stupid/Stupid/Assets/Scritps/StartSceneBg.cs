@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class StartScenePlane : MonoBehaviour {
+public class StartSceneBg : MonoBehaviour {
 	
 
 	// Use this for initialization
