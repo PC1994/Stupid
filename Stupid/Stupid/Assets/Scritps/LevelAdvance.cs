@@ -4,14 +4,14 @@ using System.Collections;
 public class LevelAdvance : MonoBehaviour {
 
 	public string level;
-	private bool stayDoor = false;
+	private bool isStaying = false;
 
 	void enterDoorFnc(){
 		Application.LoadLevel (level);
 	}
 
 	void OnGUI() {
-		if (stayDoor) {
+		if (isStaying) {
 			if (GUI.Button (new Rect (500, 10, 150, 100), "Enter door")) {
 				enterDoorFnc ();
 			}
@@ -20,12 +20,12 @@ public class LevelAdvance : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other){
 		if (other.tag == "Player") {
-			stayDoor = true;
+			isStaying = true;
 		}
 	}
 	void OnTriggerExit2D(Collider2D other){
 		if (other.tag == "Player") {
-			stayDoor = false;
+			isStaying = false;
 		}
 	}
 	void OnTriggerStay2D(Collider2D other){
