@@ -42,7 +42,7 @@ public class PlayerMovement2D : MonoBehaviour
 		float move = Input.GetAxis ("Horizontal");
 
 		if(move==0)
-			move = Input.acceleration.x;
+			move = Input.acceleration.x*2;
 
 		anim.SetFloat ("Speed", Mathf.Abs (move));
 
